@@ -1,33 +1,59 @@
-# financial-health-report-powerbi
-Financial Health Report Dashboard created using Power BI.
 # Financial Health Report Dashboard
 
-Intern Details
-
-Intern ID: CITS2634
-
 ## Project Overview
+This project is an interactive Power BI dashboard that analyzes financial health using income, expenses, savings, credit score, and loan data.
 
-This project analyzes personal financial data using Power BI. The dashboard provides insights into income, expenses, savings, credit score trends, and loan distribution through interactive visualizations.
+## Objectives
+- Analyze income and expenses.
+- Monitor savings and savings rate.
+- Track credit score trends.
+- Compare income across regions.
+- Visualize employment distribution.
+- Generate business insights using Power BI.
 
 ## Dashboard Features
-
-* Income vs Expense Analysis
-* Savings Analysis
-* Credit Score Analysis
-* Loan Distribution
-* Interactive Filters and Slicers
+- Total Income
+- Total Expenses
+- Total Savings
+- Average Credit Score
+- Savings Rate
+- Employment Distribution
+- Income Trend by Month
+- Income Trend by Year
+- Credit Score by Education Level
+- Loan Distribution
+- Income vs Expenses
+- Income vs Savings
+- Interactive Filters (Region, Gender, Education, Employment Status, Year)
 
 ## Tools Used
+- Power BI Desktop
+- Microsoft Excel
+- Power Query
+- DAX
 
-* Microsoft Power BI
-* Power Query
-* DAX
-* Excel
+## Files Included
+- Financial Health Report.pbix
+- Financial Health Report Dashboard.png
+- README.md
 
-## Dashboard Preview
-<img width="1416" height="796" alt="Financial Health Report Dashboard" src="https://github.com/user-attachments/assets/32d64fd8-b8a3-4ef9-a2a9-c3f4f117727e" />
+## Key Insights
+- Income is higher than expenses.
+- Savings rate is over 60%.
+- Employment status impacts income levels.
+- Credit scores vary across education levels.
+- Regional analysis helps identify financial trends.
 
+## Future Improvements
+- Real-time data integration
+- Predictive financial forecasting
+- Advanced DAX measures
+- Mobile-friendly dashboard
 
 ## Author
-Nirav
+
+**Saila Jaya Velamala**
+
+📧 Email: sailajavelamala@gmail.com
+
+GitHub: https://github.com/sailajavelamala-crypto
